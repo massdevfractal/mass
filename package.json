@@ -1,5 +1,5 @@
 {
-    "name": "mass",
+    "name": "massdev",
     "version": "1.0.0",
     "bin": {
         "mass": "index.js"
