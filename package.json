@@ -1,0 +1,7 @@
+{
+    "name": "mass",
+    "version": "1.0.0",
+    "bin": {
+        "mass": "index.js"
+    }
+}
