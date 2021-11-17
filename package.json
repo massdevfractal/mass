@@ -1,7 +1,7 @@
 {
     "name": "mass",
-    "version": "1.0.0",
-    "private":false,
+    "version": "1.0.1",
+    
     "bin": {
         "mass": "index.js"
     }
