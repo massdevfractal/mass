@@ -1,8 +1,10 @@
 {
     "name": "commandmass",
     "version": "1.0.2",
-    
     "bin": {
         "mass": "index.js"
+    },
+    "dependencies": {
+        "clear-any-console": "^1.16.2"
     }
 }
