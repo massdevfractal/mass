@@ -1,6 +1,6 @@
 {
-    "name": "nimmass",
-    "version": "1.0.1",
+    "name": "commandmass",
+    "version": "1.0.2",
     
     "bin": {
         "mass": "index.js"
